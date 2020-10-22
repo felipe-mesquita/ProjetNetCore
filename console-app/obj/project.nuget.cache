@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wol7TMeQJkAr5J1jyB6IYRdxQJMVbq+WoGxiSzhjq1o2QSg/pf1Zmn+Z8ioIMAlwznkBiBXRfG70zhPHmbpncg==",
+  "success": true,
+  "projectFilePath": "/Users/felipecaldeira/Projects/ProjetNetCore/console-app/console-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/felipecaldeira/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

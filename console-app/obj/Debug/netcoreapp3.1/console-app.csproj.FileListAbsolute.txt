@@ -1,0 +1,16 @@
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.csprojAssemblyReference.cache
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.AssemblyInfoInputs.cache
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.AssemblyInfo.cs
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.csproj.CoreCompileInputs.cache
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/console-app.deps.json
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/console-app.runtimeconfig.json
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/console-app.runtimeconfig.dev.json
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/console-app.dll
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/console-app.pdb
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/library.dll
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/bin/Debug/netcoreapp3.1/library.pdb
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.csproj.CopyComplete
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.dll
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.pdb
+/Users/felipecaldeira/Projects/ProjetNetCore/console-app/obj/Debug/netcoreapp3.1/console-app.genruntimeconfig.cache

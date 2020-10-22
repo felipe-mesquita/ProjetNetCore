@@ -1,0 +1,9 @@
+/Users/felipecaldeira/Projects/ProjetNetCore/library/obj/Debug/netstandard2.0/library.csprojAssemblyReference.cache
+/Users/felipecaldeira/Projects/ProjetNetCore/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/felipecaldeira/Projects/ProjetNetCore/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/felipecaldeira/Projects/ProjetNetCore/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/felipecaldeira/Projects/ProjetNetCore/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/felipecaldeira/Projects/ProjetNetCore/library/bin/Debug/netstandard2.0/library.dll
+/Users/felipecaldeira/Projects/ProjetNetCore/library/bin/Debug/netstandard2.0/library.pdb
+/Users/felipecaldeira/Projects/ProjetNetCore/library/obj/Debug/netstandard2.0/library.dll
+/Users/felipecaldeira/Projects/ProjetNetCore/library/obj/Debug/netstandard2.0/library.pdb
